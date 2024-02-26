@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "main-bg.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1082,
+				"h": 1786
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "fg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1080,
+						"h": 557
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 557
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1080,
+						"h": 557
+					}
+				},
+				{
+					"filename": "cage.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1013,
+						"h": 587
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1013,
+						"h": 587
+					},
+					"frame": {
+						"x": 1,
+						"y": 560,
+						"w": 1013,
+						"h": 587
+					}
+				},
+				{
+					"filename": "sky.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1080,
+						"h": 357
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 357
+					},
+					"frame": {
+						"x": 1,
+						"y": 1149,
+						"w": 1080,
+						"h": 357
+					}
+				},
+				{
+					"filename": "clouds-static.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1080,
+						"h": 277
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1080,
+						"h": 277
+					},
+					"frame": {
+						"x": 1,
+						"y": 1508,
+						"w": 1080,
+						"h": 277
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:fe5e2b2ec4bdc79bbe972363fd6c6179:3ebcadbcd812eb6bea118358b33296c7:dd1a6110eb674302e0a82323c1a212d5$"
+	}
+}

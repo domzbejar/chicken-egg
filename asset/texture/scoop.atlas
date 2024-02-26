@@ -1,0 +1,13 @@
+
+scoop.png
+size: 228, 220
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+images/spoon-large
+  rotate: false
+  xy: 5, 5
+  size: 215, 209
+  orig: 215, 209
+  offset: 0, 0
+  index: -1

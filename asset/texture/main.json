@@ -1,0 +1,650 @@
+{
+	"textures": [
+		{
+			"image": "main.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1007,
+				"h": 953
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "wire.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 830,
+						"h": 285
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 830,
+						"h": 285
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 830,
+						"h": 285
+					}
+				},
+				{
+					"filename": "info.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 313,
+						"h": 391
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 313,
+						"h": 391
+					},
+					"frame": {
+						"x": 1,
+						"y": 288,
+						"w": 313,
+						"h": 391
+					}
+				},
+				{
+					"filename": "msg-intro.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 533,
+						"h": 122
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 533,
+						"h": 122
+					},
+					"frame": {
+						"x": 316,
+						"y": 288,
+						"w": 533,
+						"h": 122
+					}
+				},
+				{
+					"filename": "win-amt-bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 278,
+						"h": 349
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 278,
+						"h": 349
+					},
+					"frame": {
+						"x": 316,
+						"y": 412,
+						"w": 278,
+						"h": 349
+					}
+				},
+				{
+					"filename": "no-balance.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 325,
+						"h": 187
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 325,
+						"h": 187
+					},
+					"frame": {
+						"x": 596,
+						"y": 412,
+						"w": 325,
+						"h": 187
+					}
+				},
+				{
+					"filename": "msg-bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 330,
+						"h": 139
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 330,
+						"h": 139
+					},
+					"frame": {
+						"x": 596,
+						"y": 601,
+						"w": 330,
+						"h": 139
+					}
+				},
+				{
+					"filename": "propeller.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 215,
+						"h": 215
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 215,
+						"h": 215
+					},
+					"frame": {
+						"x": 1,
+						"y": 681,
+						"w": 215,
+						"h": 215
+					}
+				},
+				{
+					"filename": "msg-attack.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 285,
+						"h": 97
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 285,
+						"h": 97
+					},
+					"frame": {
+						"x": 596,
+						"y": 742,
+						"w": 285,
+						"h": 97
+					}
+				},
+				{
+					"filename": "msg-poop.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 233,
+						"h": 50
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 233,
+						"h": 50
+					},
+					"frame": {
+						"x": 1,
+						"y": 898,
+						"w": 233,
+						"h": 50
+					}
+				},
+				{
+					"filename": "btn-submit.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 168,
+						"h": 78
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 168,
+						"h": 78
+					},
+					"frame": {
+						"x": 833,
+						"y": 1,
+						"w": 168,
+						"h": 78
+					}
+				},
+				{
+					"filename": "bal-bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 268,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 268,
+						"h": 68
+					},
+					"frame": {
+						"x": 218,
+						"y": 763,
+						"w": 268,
+						"h": 68
+					}
+				},
+				{
+					"filename": "egg-double.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 123,
+						"h": 104
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 123,
+						"h": 104
+					},
+					"frame": {
+						"x": 833,
+						"y": 81,
+						"w": 123,
+						"h": 104
+					}
+				},
+				{
+					"filename": "btn-continue.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 106,
+						"h": 59
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 106,
+						"h": 59
+					},
+					"frame": {
+						"x": 488,
+						"y": 763,
+						"w": 106,
+						"h": 59
+					}
+				},
+				{
+					"filename": "msg-rot.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 169,
+						"h": 49
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 169,
+						"h": 49
+					},
+					"frame": {
+						"x": 218,
+						"y": 833,
+						"w": 169,
+						"h": 49
+					}
+				},
+				{
+					"filename": "btn-auto.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 78
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 78
+					},
+					"frame": {
+						"x": 833,
+						"y": 187,
+						"w": 148,
+						"h": 78
+					}
+				},
+				{
+					"filename": "bet-amt-bg.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 138,
+						"h": 68
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 138,
+						"h": 68
+					},
+					"frame": {
+						"x": 236,
+						"y": 884,
+						"w": 138,
+						"h": 68
+					}
+				},
+				{
+					"filename": "btn-stop.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 78
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 78
+					},
+					"frame": {
+						"x": 851,
+						"y": 267,
+						"w": 148,
+						"h": 78
+					}
+				},
+				{
+					"filename": "btn-add.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 78,
+						"h": 78
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 78,
+						"h": 78
+					},
+					"frame": {
+						"x": 218,
+						"y": 681,
+						"w": 78,
+						"h": 78
+					}
+				},
+				{
+					"filename": "btn-no-balance.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 130,
+						"h": 70
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 130,
+						"h": 70
+					},
+					"frame": {
+						"x": 389,
+						"y": 833,
+						"w": 130,
+						"h": 70
+					}
+				},
+				{
+					"filename": "pointer.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 73,
+						"h": 96
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 73,
+						"h": 96
+					},
+					"frame": {
+						"x": 521,
+						"y": 824,
+						"w": 73,
+						"h": 96
+					}
+				},
+				{
+					"filename": "poop.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 104,
+						"h": 89
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 104,
+						"h": 89
+					},
+					"frame": {
+						"x": 596,
+						"y": 841,
+						"w": 104,
+						"h": 89
+					}
+				},
+				{
+					"filename": "egg-rotten.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 85,
+						"h": 94
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 85,
+						"h": 94
+					},
+					"frame": {
+						"x": 702,
+						"y": 841,
+						"w": 85,
+						"h": 94
+					}
+				},
+				{
+					"filename": "egg-brown.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 103
+					},
+					"frame": {
+						"x": 789,
+						"y": 841,
+						"w": 81,
+						"h": 103
+					}
+				},
+				{
+					"filename": "egg-gold.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 103
+					},
+					"frame": {
+						"x": 883,
+						"y": 742,
+						"w": 81,
+						"h": 103
+					}
+				},
+				{
+					"filename": "egg-silver.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 103
+					},
+					"frame": {
+						"x": 872,
+						"y": 847,
+						"w": 81,
+						"h": 103
+					}
+				},
+				{
+					"filename": "egg-white.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 81,
+						"h": 103
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 81,
+						"h": 103
+					},
+					"frame": {
+						"x": 923,
+						"y": 347,
+						"w": 81,
+						"h": 103
+					}
+				},
+				{
+					"filename": "btn-close.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 78,
+						"h": 78
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 78,
+						"h": 78
+					},
+					"frame": {
+						"x": 923,
+						"y": 452,
+						"w": 78,
+						"h": 78
+					}
+				},
+				{
+					"filename": "spark.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 46,
+						"h": 46
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 46,
+						"h": 46
+					},
+					"frame": {
+						"x": 851,
+						"y": 347,
+						"w": 46,
+						"h": 46
+					}
+				},
+				{
+					"filename": "btn-info.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 78,
+						"h": 78
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 78,
+						"h": 78
+					},
+					"frame": {
+						"x": 928,
+						"y": 532,
+						"w": 78,
+						"h": 78
+					}
+				},
+				{
+					"filename": "btn-minus.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 78,
+						"h": 78
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 78,
+						"h": 78
+					},
+					"frame": {
+						"x": 928,
+						"y": 612,
+						"w": 78,
+						"h": 78
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:5f637b21d93c74ee96a3bec9c073b952:bd00323f1f93d1ea6c7313d2af806e45:03f91ab73e0f4667800419161e658c40$"
+	}
+}

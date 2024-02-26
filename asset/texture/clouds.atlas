@@ -1,0 +1,195 @@
+
+clouds.png
+size: 1984,416
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+day/1
+  rotate: false
+  xy: 1313, 11
+  size: 139, 15
+  orig: 139, 15
+  offset: 0, 0
+  index: -1
+day/2
+  rotate: false
+  xy: 1313, 11
+  size: 139, 15
+  orig: 139, 15
+  offset: 0, 0
+  index: -1
+day/10
+  rotate: true
+  xy: 1637, 5
+  size: 205, 46
+  orig: 205, 46
+  offset: 0, 0
+  index: -1
+day/11
+  rotate: false
+  xy: 797, 77
+  size: 391, 133
+  orig: 391, 133
+  offset: 0, 0
+  index: -1
+day/12
+  rotate: false
+  xy: 440, 215
+  size: 430, 193
+  orig: 430, 193
+  offset: 0, 0
+  index: -1
+day/13
+  rotate: false
+  xy: 1310, 215
+  size: 430, 193
+  orig: 430, 193
+  offset: 0, 0
+  index: -1
+day/3
+  rotate: false
+  xy: 1002, 25
+  size: 162, 17
+  orig: 163, 17
+  offset: 0, 0
+  index: -1
+day/4
+  rotate: false
+  xy: 5, 8
+  size: 285, 64
+  orig: 285, 64
+  offset: 0, 0
+  index: -1
+day/5
+  rotate: true
+  xy: 1712, 28
+  size: 182, 19
+  orig: 183, 19
+  offset: 0, 0
+  index: -1
+day/6
+  rotate: false
+  xy: 1193, 31
+  size: 388, 87
+  orig: 388, 87
+  offset: 0, 0
+  index: -1
+day/7
+  rotate: false
+  xy: 835, 47
+  size: 245, 25
+  orig: 245, 25
+  offset: 0, 0
+  index: -1
+day/8
+  rotate: false
+  xy: 565, 12
+  size: 265, 60
+  orig: 265, 60
+  offset: 0, 0
+  index: -1
+day/9
+  rotate: false
+  xy: 5, 77
+  size: 391, 133
+  orig: 391, 133
+  offset: 0, 0
+  index: -1
+moon
+  rotate: false
+  xy: 1883, 311
+  size: 96, 97
+  orig: 96, 97
+  offset: 0, 0
+  index: -1
+night/1
+  rotate: false
+  xy: 1169, 11
+  size: 139, 15
+  orig: 141, 17
+  offset: 1, 1
+  index: -1
+night/2
+  rotate: false
+  xy: 1169, 11
+  size: 139, 15
+  orig: 141, 17
+  offset: 1, 1
+  index: -1
+night/10
+  rotate: true
+  xy: 1586, 5
+  size: 205, 46
+  orig: 207, 48
+  offset: 1, 1
+  index: -1
+night/11
+  rotate: false
+  xy: 401, 77
+  size: 391, 133
+  orig: 393, 135
+  offset: 1, 1
+  index: -1
+night/12
+  rotate: false
+  xy: 5, 215
+  size: 430, 193
+  orig: 432, 195
+  offset: 1, 1
+  index: -1
+night/13
+  rotate: false
+  xy: 875, 215
+  size: 430, 193
+  orig: 432, 195
+  offset: 1, 1
+  index: -1
+night/3
+  rotate: false
+  xy: 835, 25
+  size: 162, 17
+  orig: 165, 19
+  offset: 1, 1
+  index: -1
+night/4
+  rotate: true
+  xy: 1883, 21
+  size: 285, 64
+  orig: 287, 66
+  offset: 1, 1
+  index: -1
+night/5
+  rotate: true
+  xy: 1688, 28
+  size: 182, 19
+  orig: 185, 21
+  offset: 1, 1
+  index: -1
+night/6
+  rotate: false
+  xy: 1193, 123
+  size: 388, 87
+  orig: 390, 89
+  offset: 1, 1
+  index: -1
+night/7
+  rotate: true
+  xy: 1952, 61
+  size: 245, 25
+  orig: 247, 27
+  offset: 1, 1
+  index: -1
+night/8
+  rotate: false
+  xy: 295, 12
+  size: 265, 60
+  orig: 267, 62
+  offset: 1, 1
+  index: -1
+night/9
+  rotate: true
+  xy: 1745, 17
+  size: 391, 133
+  orig: 393, 135
+  offset: 1, 1
+  index: -1

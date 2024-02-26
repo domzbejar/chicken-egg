@@ -1,0 +1,167 @@
+
+farmer.png
+size: 200, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+beard
+  rotate: true
+  xy: 70, 297
+  size: 76, 82
+  orig: 78, 84
+  offset: 1, 1
+  index: -1
+blast
+  rotate: false
+  xy: 61, 41
+  size: 67, 77
+  orig: 67, 77
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 375
+  size: 133, 159
+  orig: 135, 161
+  offset: 1, 1
+  index: -1
+eyes-close
+  rotate: false
+  xy: 2, 2
+  size: 24, 13
+  orig: 26, 15
+  offset: 1, 1
+  index: -1
+eyes-open
+  rotate: false
+  xy: 154, 249
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+gun
+  rotate: true
+  xy: 2, 168
+  size: 205, 66
+  orig: 207, 69
+  offset: 1, 1
+  index: -1
+hair
+  rotate: true
+  xy: 163, 341
+  size: 44, 32
+  orig: 46, 34
+  offset: 1, 1
+  index: -1
+hand-right
+  rotate: false
+  xy: 58, 8
+  size: 31, 31
+  orig: 33, 33
+  offset: 1, 1
+  index: -1
+hat
+  rotate: true
+  xy: 154, 267
+  size: 72, 44
+  orig: 74, 46
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 130, 37
+  size: 46, 60
+  orig: 48, 62
+  offset: 1, 1
+  index: -1
+left-arm
+  rotate: false
+  xy: 132, 85
+  size: 56, 54
+  orig: 58, 56
+  offset: 1, 1
+  index: -1
+left-farm
+  rotate: true
+  xy: 2, 66
+  size: 48, 57
+  orig: 50, 59
+  offset: 1, 1
+  index: -1
+left-hand
+  rotate: false
+  xy: 91, 14
+  size: 33, 25
+  orig: 35, 27
+  offset: 1, 1
+  index: -1
+left-leg
+  rotate: false
+  xy: 70, 197
+  size: 61, 98
+  orig: 63, 100
+  offset: 1, 1
+  index: -1
+mouth
+  rotate: false
+  xy: 43, 5
+  size: 13, 10
+  orig: 15, 12
+  offset: 1, 1
+  index: -1
+mouth-open
+  rotate: false
+  xy: 28, 5
+  size: 13, 10
+  orig: 15, 12
+  offset: 1, 1
+  index: -1
+mustache
+  rotate: true
+  xy: 133, 241
+  size: 54, 19
+  orig: 56, 21
+  offset: 1, 1
+  index: -1
+nose
+  rotate: false
+  xy: 182, 242
+  size: 15, 23
+  orig: 17, 25
+  offset: 1, 1
+  index: -1
+right-arm
+  rotate: true
+  xy: 2, 116
+  size: 50, 57
+  orig: 53, 60
+  offset: 1, 2
+  index: -1
+right-farm
+  rotate: true
+  xy: 2, 17
+  size: 47, 54
+  orig: 50, 56
+  offset: 2, 1
+  index: -1
+right-leg
+  rotate: false
+  xy: 133, 141
+  size: 61, 98
+  orig: 63, 100
+  offset: 1, 1
+  index: -1
+shadow
+  rotate: true
+  xy: 163, 387
+  size: 121, 34
+  orig: 121, 34
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: true
+  xy: 70, 120
+  size: 75, 60
+  orig: 75, 60
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+bg.png
+size: 1264, 1092
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+clouds-static
+  rotate: true
+  xy: 982, 5
+  size: 1080, 277
+  orig: 1082, 279
+  offset: 1, 1
+  index: -1
+house
+  rotate: true
+  xy: 5, 5
+  size: 1080, 610
+  orig: 1082, 612
+  offset: 1, 1
+  index: -1
+sky
+  rotate: true
+  xy: 620, 5
+  size: 1080, 357
+  orig: 1082, 612
+  offset: 1, 254
+  index: -1

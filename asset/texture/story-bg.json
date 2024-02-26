@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "story-bg.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1065,
+				"h": 772
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "cage.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1013,
+						"h": 587
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1013,
+						"h": 587
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1013,
+						"h": 587
+					}
+				},
+				{
+					"filename": "msg-story.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1063,
+						"h": 122
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1063,
+						"h": 122
+					},
+					"frame": {
+						"x": 1,
+						"y": 590,
+						"w": 1063,
+						"h": 122
+					}
+				},
+				{
+					"filename": "btn-skip.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 148,
+						"h": 57
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 148,
+						"h": 57
+					},
+					"frame": {
+						"x": 1,
+						"y": 714,
+						"w": 148,
+						"h": 57
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:4c49db684778ad4d395c77e4beb4d6d0:59d0d33dad646efdfdbe85668ad4f79c:4c6bb794880a910e1c90a9c04000de0a$"
+	}
+}
